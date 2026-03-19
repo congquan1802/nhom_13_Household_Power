@@ -1,0 +1,20 @@
+======================================================================
+BÁO CÁO TỔNG KẾT - DỰ BÁO NHU CẦU NĂNG LƯỢNG
+======================================================================
+
+Ngày tạo báo cáo: 2026-03-17 21:32:36
+
+📊 KẾT QUẢ CÁC MÔ HÌNH:
+   • Ets: MAE=0.7324, RMSE=0.9046, SMAPE=74.85%
+   • Baseline: MAE=0.7170, RMSE=1.1201, SMAPE=74.58%
+   • Arima: MAE=0.9121, RMSE=1.2792, SMAPE=141.39%
+
+🏆 MÔ HÌNH TỐT NHẤT: Ets
+   - MAE: 0.7324
+   - RMSE: 0.9046
+   - SMAPE: 74.85%
+
+💡 KHUYẾN NGHỊ:
+   1. Sử dụng mô hình tốt nhất cho dự báo chính thức
+   2. Cập nhật mô hình định kỳ khi có dữ liệu mới
+   3. Kết hợp nhiều mô hình để tăng độ chính xác
